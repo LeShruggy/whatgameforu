@@ -462,10 +462,10 @@ int main(){
         printf("League of Legends\n");
         printf("Overwatch 2\n");
         printf("Go forth and mount up your hours in games that give you no fulfillment. Its what youre into right?\n");
-
+    }
+    
     printf("\nHi its Seb, the maker here ts, took me hours, hope you guys had fun answering and thank you too!\n");
     printf("The dialogue, decisions, questions and answers were all me. Dont be mad at me okay. Bye!!!\n");
     printf("First major project 2/27/26");
-    }
-
+    
 }
